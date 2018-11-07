@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Black">#000000</color>
+    <color name="White">#ffffff</color>
+    <color name="Transparent">#d5000000</color>
+    <!--Fragments Colors-->
+    <color name="FragOne">#563DF3</color>
+    <color name="FragTwo">#67F95D</color>
+    <color name="FragTree">#F844F2</color>
+</resources>
