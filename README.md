@@ -1,6 +1,6 @@
 # Android-Native-Fragments
 
-Simple project With Fragments for improve.
+Simple Repo for Android App Native using fragments.
 
 
 
